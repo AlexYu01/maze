@@ -28,6 +28,7 @@ Please refer to [Maze Instructions](https://github.com/AlexYu01/holbertonschool-
 
 ### Author
 - [Alex Yu](https://github.com/AlexYu01)
+
 ### Acknowledgments
 - [Holberton](https://www.holbertonschool.com/)
 - [Lode's great tutorial on raycasting](https://lodev.org/cgtutor/raycasting.html)
