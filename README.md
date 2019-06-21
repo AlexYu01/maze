@@ -1,5 +1,7 @@
 # Maze
 
+![Maze](https://i.imgur.com/ExSHAWX.png)
+
 ### Focus
 Create a 3D maze using [SDL2.0](https://www.libsdl.org/download-2.0.php).
 All files are to follow the coding style under [Betty](https://github.com/holbertonschool/Betty/wiki).
